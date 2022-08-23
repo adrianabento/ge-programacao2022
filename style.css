@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    font-size: medium;
+    text-align: left;
+}
+p i{
+     color: brown;
+     text-align: right; 
+}
